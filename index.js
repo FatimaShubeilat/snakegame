@@ -92,7 +92,7 @@ function keyDown(event) {
     xVelocity = 0; // only the y changes
   }
 
-  // down
+  // down key
   if (event.keyCode == 40) {
     if (yVelocity == -1) return;
     yVelocity = 1;
