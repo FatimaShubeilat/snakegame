@@ -1,5 +1,1 @@
 # snakegame
-
-## test
-
-#### re re
